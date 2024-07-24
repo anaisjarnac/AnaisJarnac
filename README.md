@@ -1,10 +1,6 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/74538509/226668714-3a45f734-3559-49f3-94e2-9732377efce7.png)
 
 ### Salut 👋 🌸 🌼
-Je m'appelle Anaïs et je suis ✨ développeuse Web junior ✨
-Je travaille principalement en Javascript, précisement React, Next.JS, Node.js, GraphQL, Typescript... 🌱🚀 
-Mais je suis très curieuse donc ouverte à tout apprentissage (j'adore le CSS, reste de mes études créatives  🎨 🧑‍🎨 )
-
 <!--
 **anaisjarnac/AnaisJarnac** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
